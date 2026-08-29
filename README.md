@@ -8,7 +8,7 @@ The **Student Attendance Monitoring & Performance Analysis** project uses R to a
 
 The project focuses on identifying students who may be at risk of falling below attendance requirements and examining factors that may contribute to absenteeism. The analysis provides useful insights that can support early intervention and improve student attendance monitoring.
 
-## Project Objectives
+## Project Objectives 
 
 The main objectives of this project are to:
 
